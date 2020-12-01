@@ -1,17 +1,14 @@
-# Hassani
-en formation de Concepteur Développeur d'Application Dynamics chez @BusinessApps.
+# Pharmacie du centre
+creer un site de e-commerce 
 
 ## Technologies:
-<ol>
-css
-html
-javascript
-php
+
+css<br>
+html<br>
+javascript<br>
+
   
-## cours:
-strategie et organisation d'entreprise 
-office 365
-Algorithmie
+
 
 
 pour plus d'information sur la formation contacter: [fz.hassani@gmail.com](mailto:fz.hassani@gmail.com)
