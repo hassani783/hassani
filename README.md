@@ -1,5 +1,5 @@
 # Pharmacie du centre
-creer un site de e-commerce 
+ un site de e-commerce 
 
 ## Technologies:
 
