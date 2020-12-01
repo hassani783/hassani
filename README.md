@@ -2,11 +2,11 @@
 creer un site de e-commerce 
 
 ## Technologies:
-
-css<br>
+<ol>
+  <ul>css</ul>
 html<br>
 javascript<br>
-
+</ol>
   
 
 
