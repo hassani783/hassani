@@ -3,7 +3,7 @@ creer un site de e-commerce
 
 ## Technologies:
 
-  css
+  css<br>
   html<br>
   javascript<br>
 
@@ -11,4 +11,4 @@ creer un site de e-commerce
 
 
 
-pour plus d'information sur la formation contacter: [fz.hassani@gmail.com](mailto:fz.hassani@gmail.com)
+pour plus d'information contacter: [fz.hassani@gmail.com](mailto:fz.hassani@gmail.com)
