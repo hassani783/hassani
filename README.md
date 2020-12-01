@@ -3,9 +3,9 @@
 
 ## Technologies:
 
-  css<br>
-  html<br>
-  javascript<br>
+ - css
+ - html
+ - javascript
 
   
 
